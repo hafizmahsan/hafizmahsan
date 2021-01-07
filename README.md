@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Hafiz Mohammad Ahsan 👋
 
 
 Here are some ideas to get you started:
@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hafizbahadur786@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hafiz-mohammad-ahsan-4248181a0/)
+![GitHub followers](https://img.shields.io/github/followers/hafizmahsan?label=follow&style=social)
