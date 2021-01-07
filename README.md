@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/hafizmahsan?label=follow&style=social)
 
 <br />
-<br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hafizmahsan" alt="Hafiz Mohammad Ahsan" /> </p>
-
-<br />
-<br />
-
 
 ### Languages and Tools:
 
