@@ -1,16 +1,14 @@
 ## Hi there, I'm Hafiz Mohammad Ahsan 👋
 
 
-Here are some ideas to get you started:
+## I'm a Learner, Developer Teacher and wanted to be a Researcher!
 
-- 🔭 I’m currently working on ... Machine Learning/Deep Learning/Data Sciences/Computer Vision / inshort all about AI
-- 🌱 I’m currently learning ... Everything
+- 🔭 I’m currently working on ... Learning and Practicing AI
+- 🌱 I’m currently learning ... AI
 - 👯 I’m looking to collaborate on ... AI Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Technology Stff
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate with other content creators and developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Love to learn New Things
 
 ### Connect with me:
 
